@@ -1,0 +1,58 @@
+Meeting with Pedro : 
+  How many instances 
+  which language will be preferred. 
+  what's the interval of events triggered
+  ....................................................
+  quiet simplistic - terraform code.
+  password:
+  ............................
+  payment canada:
+
+   lmno soon to start.
+   ......................................
+something consistent with best practices. 
+lambda functions. 
+.........................................
+proxy 02 
+proxy 01
+..........................
+lamda : 
+  watch out for :
+    lambda functions 
+    for schedule ;
+       cloudformation template ;
+       schedule 
+  terraform 
+  lamda function  - start 
+  lamda function - stop 
+  once machine are up , initiate handling
+  ................................................
+  once patching is completed , test url. test nginx 
+  on demand patching. 
+  stop the instances ; 
+
+  ....................................
+  starts , 
+  wait initiates the patching 
+  testing and shutdown.
+  stops ,
+
+  start the instance 
+  initiates the partching 
+  alerts if patching fails 
+  initiate the testing and alerts if it fails. 
+  ........................................................
+  automated patchinf runs on the weekly basis. 
+  use tag, 
+  add other instances to test the functions. 
+  ......................................................
+  Includes; 
+     ........................
+     accomodation;
+
+     part of the process ;
+     tag for ; stag stage;
+     stag stage or offline 
+     testing should only proceed when state is offline. 
+     .......................................................
+     processes:
