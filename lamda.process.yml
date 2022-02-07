@@ -56,3 +56,14 @@ lamda :
      testing should only proceed when state is offline. 
      .......................................................
      processes:
+
+we are looking for an expert experinced with writing lamda functions  that can perform the following
+ 1. start  ec2 instances 
+ 2. performs patching 
+ 3. alerts if the patching fails
+ 4. Test if patching was successful after patching 
+ 5. stop the instances.
+    Not.
+we prefer for the function  to only run when the servers are offline. so in this case we need to 
+          a. use some tags or  if, else statements.
+The task can be performed either with cloud formation template or terraform.
